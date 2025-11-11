@@ -1,0 +1,9 @@
+,Contrast,Category,Fisher_Combined_Pvalue
+1,NeuN_num,Telencephalon,0.2699651182523085
+2,NeuN_num,Brainstem,0.052502775640731324
+3,Abeta_Mean,Telencephalon,4.472163560545281e-33
+4,Abeta_Mean,Brainstem,1.785911835713559e-18
+5,NeuNDensity_Mean,Telencephalon,0.08785023761575715
+6,NeuNDensity_Mean,Brainstem,0.7342579407303353
+7,volume_mm3,Telencephalon,1.1899753700907578e-09
+8,volume_mm3,Brainstem,1.096026445999957e-19
